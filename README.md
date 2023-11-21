@@ -4,7 +4,7 @@
 This project explores the use of BigQuery ML to detect fraudulent activities in financial transactions. Utilizing public financial transaction data, the project applies feature engineering and machine learning techniques, including both supervised and unsupervised models, to identify fraudulent transactions.
 
 _Screenshot: BigQuery Interface with Financial Transactions Data_
-![BigQuery Data Overview](screenshots/bigquery_data_overview.png)
+![BigQuery Data Overview](Screenshots/bigquery_data_overview.png)
 
 
 ## Objective
@@ -16,10 +16,10 @@ _Screenshot: BigQuery Interface with Financial Transactions Data_
  - **Feature Engineering:** Creating new features to enhance model performance.
  - **Model Development & Evaluation:**
 	 - Unsupervised Model: Implementing k-means clustering for anomaly detection.
- ![Kmeans Model Evaluation](screenshots/Unsupervised-Evaluation-Kmeans.png)
+ ![Kmeans Model Evaluation](/Screenshots/Unsupervised-Evaluation-Kmeans.png)
 	 - Supervised Models: Building logistic regression and boosted tree models for fraud detection.
- ![Logistic Regression Model Evaluation](screenshots/Supervised-Evaluation-Logistic.png)
- ![Boosted Tree Model Evaluation](screenshots/Supervised-Evaluation-Boosted-Tree.png)
+ ![Logistic Regression Model Evaluation](Screenshots/Supervised-Evaluation-Logistic.png)
+ ![Boosted Tree Model Evaluation](Screenshots/Supervised-Evaluation-Boosted-Tree.png)
 
 
 ## Key Findings
