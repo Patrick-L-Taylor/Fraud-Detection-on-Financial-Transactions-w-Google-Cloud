@@ -6,7 +6,6 @@ This project explores the use of BigQuery ML to detect fraudulent activities in 
 _Screenshot: BigQuery Interface with Financial Transactions Data_
 ![BigQuery Data Overview](Screenshots/bigquery_data_overview.png)
 
-<br>
 
 ## Objective
  - To develop a robust model capable of detecting fraud in financial transactions using machine learning techniques.
