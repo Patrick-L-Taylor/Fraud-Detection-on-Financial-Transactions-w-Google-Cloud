@@ -17,25 +17,20 @@ _Screenshot: BigQuery Interface with Financial Transactions Data_
  - **Feature Engineering:** Creating new features to enhance model performance.
  - **Model Development & Evaluation:**
 	 - Unsupervised Model: Implementing k-means clustering for anomaly detection.
+	 - Supervised Models: Building logistic regression and boosted tree models for fraud detection.
  
-_Screenshot: Kmeans Model Evaluation_
-
+_Screenshot: Kmeans Model Evaluation (Unsupervised)_
 ![Kmeans Model Evaluation](/Screenshots/Unsupervised-Evaluation-Kmeans.png)
 
 <br>
 
 
-	- Supervised Models: Building logistic regression and boosted tree models for fraud detection.
-
-
-_Screenshot: Logistic Regression Model Evaluation_
-
+_Screenshot: Logistic Regression Model Evaluation (Supervised)_
 ![Logistic Regression Model Evaluation](Screenshots/Supervised-Evaluation-Logistic.png)
 
 <br>
 
-_Screenshot: Boosted Tree Model Evaluation_
-
+_Screenshot: Boosted Tree Model Evaluation (Supervised)_
 ![Boosted Tree Model Evaluation](Screenshots/Supervised-Evaluation-Boosted-Tree.png)
 
 
