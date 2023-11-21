@@ -14,23 +14,22 @@ _Screenshot: BigQuery Interface with Financial Transactions Data_
 ## Methodology
  - **Data Exploration and Preparation:** Analyzing financial transactions data and preparing it for machine learning models.
  - **Feature Engineering:** Creating new features to enhance model performance.
- - **Model Development & Evaluation:**
+ - **Model Development:**
 	 - Unsupervised Model: Implementing k-means clustering for anomaly detection.
 	 - Supervised Models: Building logistic regression and boosted tree models for fraud detection.
  
-_Screenshot: Kmeans Model Evaluation (Unsupervised)_
-![Kmeans Model Evaluation](/Screenshots/Unsupervised-Evaluation-Kmeans.png)
+_Screenshot: Kmeans Model (Unsupervised)_
+![Kmeans Model Evaluation](/Screenshots/kmeans-model.png)
 
 <br>
 
-
-_Screenshot: Logistic Regression Model Evaluation (Supervised)_
-![Logistic Regression Model Evaluation](Screenshots/Supervised-Evaluation-Logistic.png)
+_Screenshot: Logistic Regression Model (Supervised)_
+![Logistic Regression Model Evaluation](Screenshots/logistic-regression-model.png)
 
 <br>
 
-_Screenshot: Boosted Tree Model Evaluation (Supervised)_
-![Boosted Tree Model Evaluation](Screenshots/Supervised-Evaluation-Boosted-Tree.png)
+_Screenshot: Boosted Tree Model (Supervised)_
+![Boosted Tree Model Evaluation](Screenshots/boosted-tree-classifier-model.png)
 
 
 ## Key Findings
